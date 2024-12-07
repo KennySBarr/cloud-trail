@@ -57,7 +57,7 @@ AWS (Amazon Web Services) is a comprehensive and widely adopted cloud platform t
 
 
 
-- Set a rule that if does exceed 70 percent to stop the instance from running along with a notifcation
+- Set a rule that if it does exceed 70 percent to stop the instance from running along with a notifcation
 - An incident report will also be automated as well once the alarm is set off using AWS policies
   
 ![Screenshot 2024-12-07 063058](https://github.com/user-attachments/assets/e696d728-57bb-4ec2-b7ca-18ef1808d50d)
